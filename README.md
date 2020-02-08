@@ -1,5 +1,5 @@
-# pf_test_task
-Test task for PF
+# alice
+Alice site
 
 How to run?
 1) Clone repositary (git clone https://github.com/enliberte/pf_test_task.git);
